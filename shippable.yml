@@ -1,5 +1,6 @@
 language: python
 
+
 python:
    - 2.7
    
@@ -27,6 +28,7 @@ cache: true
 
 notifications:
   irc: "chat.freenode.net#test-irc"
+
 #build_image:
  #  name:  vidyar/phpmongo:2.1
 #   net: host
